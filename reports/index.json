@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-210727-7xeq",
+      "title": "Nico Minorü",
+      "commanders": [
+        "Nico Minorü"
+      ],
+      "dateStart": "2026-07-13T01:07:27.000Z",
+      "dateEnd": "2026-07-13T01:50:03.000Z",
+      "dateLabel": "7/12/2026, 9:07:27 PM - 7/12/2026, 9:50:03 PM",
+      "url": "https://weaselsgod-arch.github.io/YOU/?report=20260712-210727-7xeq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260706-203801-lfdu",
       "title": "Nico Minorü",
       "commanders": [
