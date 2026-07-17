@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-225731-bodx",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-07-17T02:57:31.000Z",
+      "dateEnd": "2026-07-17T03:54:57.000Z",
+      "dateLabel": "7/16/2026, 10:57:31 PM - 7/16/2026, 11:54:57 PM",
+      "url": "https://weaselsgod-arch.github.io/YOU/?report=20260716-225731-bodx",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260712-210727-7xeq",
       "title": "Nico Minorü",
       "commanders": [
