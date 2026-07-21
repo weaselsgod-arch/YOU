@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260720-204600-d5vq",
+      "title": "Nico Minorü",
+      "commanders": [
+        "Nico Minorü"
+      ],
+      "dateStart": "2026-07-21T00:46:00.000Z",
+      "dateEnd": "2026-07-21T02:05:24.000Z",
+      "dateLabel": "7/20/2026, 8:46:00 PM - 7/20/2026, 10:05:24 PM",
+      "url": "https://weaselsgod-arch.github.io/YOU/?report=20260720-204600-d5vq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260716-225731-bodx",
       "title": "Nico Da Illustrious",
       "commanders": [
