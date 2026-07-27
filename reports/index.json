@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-205641-9rsr",
+      "title": "Dane Whitmann",
+      "commanders": [
+        "Dane Whitmann"
+      ],
+      "dateStart": "2026-07-27T00:56:41.000Z",
+      "dateEnd": "2026-07-27T01:55:30.000Z",
+      "dateLabel": "7/26/2026, 8:56:41 PM - 7/26/2026, 9:55:30 PM",
+      "url": "https://weaselsgod-arch.github.io/YOU/?report=20260726-205641-9rsr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260720-204600-d5vq",
       "title": "Nico Minorü",
       "commanders": [
