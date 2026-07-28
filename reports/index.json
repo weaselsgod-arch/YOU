@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260727-205623-fb7l",
+      "title": "Aldrif Odinsdottír",
+      "commanders": [
+        "Aldrif Odinsdottír"
+      ],
+      "dateStart": "2026-07-28T00:56:23.000Z",
+      "dateEnd": "2026-07-28T02:25:10.000Z",
+      "dateLabel": "7/27/2026, 8:56:23 PM - 7/27/2026, 10:25:10 PM",
+      "url": "https://weaselsgod-arch.github.io/YOU/?report=20260727-205623-fb7l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260726-205641-9rsr",
       "title": "Dane Whitmann",
       "commanders": [
