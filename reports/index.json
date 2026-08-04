@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260803-204205-1iyr",
+      "title": "Aldrif Odinsdottír",
+      "commanders": [
+        "Aldrif Odinsdottír"
+      ],
+      "dateStart": "2026-08-04T00:42:05.000Z",
+      "dateEnd": "2026-08-04T01:47:27.000Z",
+      "dateLabel": "8/3/2026, 8:42:05 PM - 8/3/2026, 9:47:27 PM",
+      "url": "https://weaselsgod-arch.github.io/YOU/?report=20260803-204205-1iyr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260802-201318-4d4z",
       "title": "Aldrif Odinsdottír",
       "commanders": [
