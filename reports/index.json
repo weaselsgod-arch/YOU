@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-202635-38d8",
+      "title": "Nico Minorü",
+      "commanders": [
+        "Nico Minorü"
+      ],
+      "dateStart": "2026-08-10T00:26:35.000Z",
+      "dateEnd": "2026-08-10T01:33:29.000Z",
+      "dateLabel": "8/9/2026, 8:26:35 PM - 8/9/2026, 9:33:29 PM",
+      "url": "https://weaselsgod-arch.github.io/YOU/?report=20260809-202635-38d8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260803-204205-1iyr",
       "title": "Aldrif Odinsdottír",
       "commanders": [
