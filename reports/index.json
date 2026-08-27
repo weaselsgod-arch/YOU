@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-205908-nlml",
+      "title": "Nico Minorü",
+      "commanders": [
+        "Nico Minorü"
+      ],
+      "guild": {
+        "id": "55649298-8B81-E811-81A9-DC92C488388A",
+        "name": "Spartans This Is Sparta",
+        "tag": "SPAR"
+      },
+      "dateStart": "2026-08-27T00:59:08.000Z",
+      "dateEnd": "2026-08-27T01:42:35.000Z",
+      "dateLabel": "8/26/2026, 8:59:08 PM - 8/26/2026, 9:42:35 PM",
+      "url": "https://weaselsgod-arch.github.io/YOU/?report=20260826-205908-nlml",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260817-203543-gxnk",
       "title": "Aldrif Odinsdottír, Nico Minorü",
       "commanders": [
